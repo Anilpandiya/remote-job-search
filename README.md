@@ -7,6 +7,10 @@ Two shippable demos for Anil Kumar Pandiya’s remote Senior Frontend / Frontend
 | **Meridian Insights** | [`apps/fe-flagship`](./apps/fe-flagship) | `43121` | FinTech insights dashboard: typed API layer, accessible UI, RTL tests |
 | **Scout Loop** | [`apps/agentic-demo`](./apps/agentic-demo) | `43122` | Observe → plan → act → validate agent loop with mock LLM swap point |
 
+## Job search materials
+
+Planning docs (resume variants, apply playbook, interview prep, agent learning) live in [`docs/`](./docs/).
+
 ## Quick start
 
 ```bash
@@ -29,7 +33,3 @@ npm run dev
 cd apps/fe-flagship && npm test && npm run build
 cd apps/agentic-demo && npm test && npm run build
 ```
-
-## Project write-ups
-
-One-pagers for resume/portfolio live in the Project store (`docs/project-fe-flagship.md`, `docs/project-agentic-demo.md`).
